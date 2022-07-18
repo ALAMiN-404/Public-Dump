@@ -1,4 +1,4 @@
 
 	import lite
 else:
-	importlitexx
+	import litexx
